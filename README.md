@@ -6,12 +6,12 @@
 
 ## Built With
 
-- html, css, js
+- html, css, js,ES6
 - eslint, hint, styleint
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://ifzarasool.github.io/AwesomeBooks-Single-Page-Website/)
+[Live Demo Link](https://ifzarasool.github.io/Awesome-Books-With-ES6/)
 
 ## Getting Started
 
@@ -28,6 +28,7 @@ To get a local copy up and running follow these simple example steps.
 ### Install
 
 `npm install`
+`Luxon library for date `
 
 ### Usage
 
@@ -38,10 +39,6 @@ To get a local copy up and running follow these simple example steps.
 👤 **Ifza Rasool**
 
 - GitHub: [@IfzaRasool](https://github.com/IfzaRasool)
-
-👤 **Max The Stranger**
-
-- GitHub: [@maxthestranger](https://github.com/maxthestranger)
 
 ## 🤝 Contributing
 
