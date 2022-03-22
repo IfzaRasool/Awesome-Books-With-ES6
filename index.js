@@ -1,4 +1,3 @@
-/* eslint-disable import/named */
 import { addBook, bookList, form } from './modules/Addbooks.js';
 import switchSection from './modules/Switchsections.js';
 import { readBook, bookDiv, removeBook } from './modules/Readbooks.js';
