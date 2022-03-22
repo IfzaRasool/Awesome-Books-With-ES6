@@ -1,11 +1,11 @@
+/* eslint-disable import/named */
 import { addBook, bookList, form } from './modules/Addbooks.js';
-import { switchSection } from './modules/Switchsections.js';
+import switchSection from './modules/Switchsections.js';
 import { readBook, bookDiv, removeBook } from './modules/Readbooks.js';
 import { displayDate } from './modules/Date.js';
 
-displayDate();
-
 switchSection();
+displayDate();
 readBook(bookList, bookDiv);
 
 // create a book
