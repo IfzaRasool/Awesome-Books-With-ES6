@@ -11,7 +11,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://ifzarasool.github.io/Awesome-Books-With-ES6/)
+[Live Demo Link](https://ifzarasool.github.io/Awesome-Books-With-ES6/) link will be available onece merged
 
 ## Getting Started
 
